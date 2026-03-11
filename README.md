@@ -14,7 +14,7 @@ A CLI tool for checking California mortgage rates, comparing lenders, and assess
 ## Installation
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/camortgage.git
+git clone https://github.com/santopapa/camortgage.git
 cd camortgage
 uv venv && source .venv/bin/activate
 uv pip install -e .
